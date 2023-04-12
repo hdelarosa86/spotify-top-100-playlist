@@ -9,3 +9,5 @@ by web scrapping Billboard Hot 100's page using Beautiful Soup.
 ## Tools
 * Python
 * Beautiful Soup
+* Spotipy
+* Spotify API
